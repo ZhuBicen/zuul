@@ -1,0 +1,5 @@
+ zuul:
+  routes:
+    gitBooks:
+      path: /gitBooks/**
+      url: http://localhost
